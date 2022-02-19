@@ -96,3 +96,6 @@ Execute the program
 
 # OUPUT
 ![git log](mohanraj1.png)
+
+### RESULT:
+Thus, a html webpage is created to display the timetable.
